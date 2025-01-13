@@ -1,0 +1,177 @@
+{
+    "Name" : "Pizzeria Los Atrevidos",
+    "type" : "Cafeteria",
+    "#" : "76470313",
+    "web" : "https://atrevidospizzeria.com/",
+    "Reference Point" : "",
+    "Status" : "mipime",
+    "events" : "",
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        
+    ],
+    "speciality" : [
+        "comida italiana" 
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Arroyo Naranjo",
+        "address" : "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra",
+        "coordinates" : ""
+    },
+
+    "open_hours": {
+        "sunday" : "10:00am - 11:00pm",
+        "monday" : "10:00am - 11:00pm",
+        "tuesday" : "10:00am - 11:00pm",
+        "wednesday" : "10:00am - 11:00pm",
+        "thursday" : "10:00am - 11:00pm",
+        "friday" : "10:00am - 11:00pm",
+        "saturday" : "10:00am - 11:00pm"
+    },
+
+    "curiosity" : "",
+    "Menu" : {
+        "Breakfasts" : {
+            "Sandwich" : null,
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snack Food" : null,
+            "Soups and Vegetables" : null,
+            "Salads" : null,
+            "Others" : null
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : null,
+            "Creams" : null,
+            "Pasta Sauces" : null,
+            "Rice" : null,
+            "Bread" : null,
+            "Others" : null
+        },
+        "Main Dishes" : {
+            "Pizzas" : {
+                "Pizza Napolitana" : {
+                    "price": 1100
+                },
+                "Pizza d' Cebolla" : {
+                    "price": 1250
+                },
+                "Pizza d' Champiñones" : {
+                    "price": 1300
+                },
+                "Pizza d' Pimiento" : {
+                    "price": 1250
+                },
+                "Pizza d' Jamón" : {
+                    "price": 1350
+                },
+                "Pizza d' Aceitunas" : {
+                    "price": 1400
+                },
+                "Pizza d' Chorizo" : {
+                    "price": 1350
+                },
+                "Pizza d' Chorizo Vela" : {
+                    "price": 1150
+                },
+                "Pizza Hawaiana" : {
+                    "price": 1400
+                },
+                "Pizza d' Bacon" : {
+                    "price": 1400
+                },
+                "Pizza d' Atún" : {
+                    "price": 1500
+                },
+                "Pizza Bolonesa" : {
+                    "price": 1600
+                },
+                "Pizza d' Jamón Serrano" : {
+                    "price": 1550
+                },
+                "Pizza d' Camarones" : {
+                    "price": 1650
+                },
+                "Pizza 4 Quesos" : {
+                    "price": 1500
+                },
+                "Pizza Atrevida" : {
+                    "price": 1800
+                },
+                "Pizza Jamón Pernia" : {
+                    "price": 1500
+                }
+            },
+            "Pastas" : {
+                "Lasaña" : {
+                    "price": 1100
+                },
+                "Spaguetis Napolitanos" : {
+                    "price": 1000
+                },
+                "Spaguetis d' Parmesano" : {
+                    "price": 1200
+                },
+                "Spaguetis d' Jamón" : {
+                    "price": 1250
+                },
+                "Spaguetis d' Atún" : {
+                    "price": 1350
+                },
+                "Spaguetis d' Chorizo" : {
+                    "price": 1250
+                },
+                "Spaguetis d' Aceituna" : {
+                    "price": 1300
+                },
+                "Spaguetis d' Cebolla" : {
+                    "price": 1150
+                },
+                "Spaguetis Hawaianos" : {
+                    "price": 1300
+                },
+                "Spaguetis 4 Quesos" : {
+                    "price": 1400
+                },
+                "Spaguetis Atrevidos" : {
+                    "price": 1050
+                },
+                "Spaguetis Bolonesa" : {
+                    "price": 1450
+                }
+            },
+            "Meats" : {
+                "Beef" : null,
+                "Lamb" : null,
+                "Pig" : null,
+                "Chicken" : null
+            },
+            "Risotto" : null,
+            "Seafood" : {
+                "Fish" : null,
+                "octopus" : null,
+                "lobster(langosta)" : null,
+                "shrimp(camarones" : null,
+                "Squid" : null,
+                "Crab" : null,
+                "Others" : null
+            },
+            "Others" : null
+        },
+        "Desserts" : null,
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : null,
+            "Beers and Offers" : null,
+            "Cocktails" : null,
+            "Bottles" : null,
+            "Drinks" : null,
+            "Non alcoholic drinks" : null
+        }
+    },
+    "service_charge_percentage": 0
+}

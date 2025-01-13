@@ -1,0 +1,134 @@
+{
+    "Name" : "El Triangulo",
+    "type" : "Restaurante",
+    "#" : "no",
+    "web" : null,
+    "Reference Point" : null,
+    "Status" : "mipime",
+    "events" : null,
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        
+    ],
+    "speciality" : [
+        "comida criolla"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Arroyo Naranjo",
+        "address" : "Esquina Calzada de 10 de octubre y Calzada de Porvenir",
+        "coordinates" : "23.074190200140418, -82.35853074677871"
+    },
+
+    "open_hours": {
+        "sunday" : "8:00am - 12:00am",
+        "monday" : "8:00am - 12:00am",
+        "tuesday" : "8:00am - 12:00am",
+        "wednesday" : "8:00am - 12:00am",
+        "thursday" : "8:00am - 12:00am",
+        "friday" : "8:00am - 12:00am",
+        "saturday" : "8:00am - 12:00am"
+    },
+
+    "curiosity" : null,
+    "Menu" : {
+        "Breakfasts" : {
+            "Sandwich" : null,
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snack Food" : {
+                "Croquetas" : {
+                    "price":150.00
+                },
+                "Bolitas de queso" : {
+                    "price":150.00
+                },
+                "Tostones" : {
+                    "price":150.00
+                }
+            },
+            "Soups and Vegetables" : null,
+            "Salads" : null,
+            "Others" : null
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : null,
+            "Creams" : null,
+            "Pasta Sauces" : null,
+            "Rice" : null,
+            "Bread" : null,
+            "Others" : null
+        },
+        "Main Dishes" : {
+            "Pizzas" : null,
+            "Pastas" : null,
+            "Meats" : {
+                "Beef" : null,
+                "Lamb" : null,
+                "Pig" : null,
+                "Chicken" : {
+                    "Fajitas de pollo" : {
+                        "price":350.00
+                    },
+                    "Pollo Frito" : {
+                        "price":1000.00
+                    }
+                }
+            },
+            "Risotto" : null,
+            "Seafood" : {
+                "Fish" : null,
+                "octopus" : null,
+                "lobster(langosta)" : null,
+                "shrimp(camarones" : null,
+                "Squid" : null,
+                "Crab" : null,
+                "Others" : null
+            },
+            "Others" : null
+        },
+        "Desserts" : null,
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : null,
+            "Beers and Offers" : {
+                "Cerveza Cristal" : {
+                    "price":250.00
+                },
+                "Cerveza Bucanero" : {
+                    "price":250.00
+                },
+                "Cerveza Escorial" : {
+                    "price":200.00
+                },
+                "Cerveza Holanda" : {
+                    "price":200.00
+                }
+            },
+            "Cocktails" : null,
+            "Bottles" : null,
+            "Drinks" : null,
+            "Non alcoholic drinks" : {
+                "Agua" : {
+                    "price":120.00
+                },
+                "Refresco" : {
+                    "price":220.00
+                },
+                "Jugo de caja" : {
+                    "price":180.00
+                },
+                "Red Bull" : {
+                    "price":230.00
+                },
+                "Malta" : {
+                    "price":220.00
+                }
+            }
+        }
+    },
+    "service charge percentage" : 0
+}

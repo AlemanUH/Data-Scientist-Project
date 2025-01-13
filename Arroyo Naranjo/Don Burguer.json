@@ -1,0 +1,215 @@
+{
+    "Name" : "Don Burguer",
+    "type" : "Restaurante",
+    "#" : "56073379",
+    "web" : "@donburguercuba",
+    "Reference Point" : "MEGATEC SERVICIOS TECNOLOGICOS",
+    "Status" : "mipime",
+    "events" : null,
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        
+    ],
+    "speciality" : [
+        "comida chatarra"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Arroyo Naranjo",
+        "address" : "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel",
+        "coordinates" : "3JGR+3H5"
+    },
+
+    "open_hours": {
+        "sunday" : "10:00am - 11:00pm",
+        "monday" : "10:00am - 11:00pm",
+        "tuesday" : "10:00am - 11:00pm",
+        "wednesday" : "10:00am - 11:00pm",
+        "thursday" : "10:00am - 11:00pm",
+        "friday" : "10:00am - 11:00pm",
+        "saturday" : "10:00am - 11:00pm"
+    },
+
+    "curiosity" : null,
+    "Menu" : {
+        "Breakfasts" : {
+            "Sandwich" : {
+                "Hamburguesa (Cerdo)" : {
+                    "price":740.00
+                },
+                "Hamburguesa (Pollo)" : {
+                    "price":740.00
+                },
+                "Hamburguesa (Res)" : {
+                    "price":860.00
+                },
+                "Doble Hamb. (Cerdo)" : {
+                    "price":1040.00
+                },
+                "Doble Hamb. (Pollo)" : {
+                    "price":1040.00
+                },
+                "Doble Hamb. (Res)" : {
+                    "price":1480.00
+                },
+                "Doble Hamburguesa de Cerdo(Bistec de Cerdo y 3 Agregos / Jamon Viking, Queso y Chorizo" : {
+                    "price":2680.00
+                },
+                "Pan c/ Bistec de Cerdo" : {
+                    "price":840.00
+                },
+                "Pan c/ Bistec de Pollo" : {
+                    "price":810.00
+                },
+                "Pan c/ Lechon" : {
+                    "price":890.00
+                },
+                "Bocadito de Atun" : {
+                    "price":840.00
+                },
+                "Sandwich de jamon queso y chorizo" : {
+                    "price":890.00
+                },
+                "Sandwich cubano" : {
+                    "price":1290.00
+                }
+            },
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snack Food" : {
+                "Ensalada fria" : {
+                    "price":580.00
+                },
+                "Aceitunas (RACIÓN)" : {
+                    "price":420.00
+                },
+                "Bolitas de queso" : {
+                    "price":640.00
+                },
+                "Frituras de Malanga" : {
+                    "price":510.00
+                },
+                "Croquetas" : {
+                    "price":640.00
+                },
+                "Papitas" : {
+                    "price":640.00
+                },
+                "Entremes surtido" : {
+                    "price":1720.00
+                },
+                "Brusquetas" : {
+                    "price":780.00
+                },
+                "Burritos de jamon y queso" : {
+                    "price":1260.00
+                },
+                "Tacos de vegetales" : {
+                    "price":620.00
+                },
+                "Tacos de cerdo" : {
+                    "price":1120.00
+                },
+                "Tacos de pollo" : {
+                    "price":1120.00
+                },
+                "Tacos de res" : {
+                    "price":1280.00
+                }
+            },
+            "Soups and Vegetables" : null,
+            "Salads" : null,
+            "Others" : null
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : null,
+            "Creams" : null,
+            "Pasta Sauces" : null,
+            "Rice" : null,
+            "Bread" : null,
+            "Others" : null
+        },
+        "Main Dishes" : {
+            "Pizzas" : null,
+            "Pastas" : null,
+            "Meats" : {
+                "Beef" : null,
+                "Lamb" : null,
+                "Pig" : null,
+                "Chicken" : {
+                    "Fajitas de pollo" : {
+                        "price":940.00
+                    }                }
+            },
+            "Risotto" : null,
+            "Seafood" : {
+                "Fish" : null,
+                "octopus" : null,
+                "lobster(langosta)" : null,
+                "shrimp(camarones" : null,
+                "Squid" : null,
+                "Crab" : null,
+                "Others" : null
+            },
+            "Others" : null
+        },
+        "Desserts" : {
+            "3 Gracias" : {
+                "price":740.00
+            },
+            "Ensalada" : {
+                "price":1080.00
+            },
+            "Suero de helado" : {
+                "price":840.00
+            },
+            "casquitos de Guayaba" : {
+                "price":560.00
+            },
+            "Flan" : {
+                "price":560.00
+            },
+            "Dulce de coco" : {
+                "price":460.00
+            },
+            "Torrejas" : {
+                "price":680.00
+            },
+            "Dulcede Fruta Bomba" : {
+                "price":460.00
+            }
+        },
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : null,
+            "Beers and Offers" : null,
+            "Cocktails" : null,
+            "Bottles" : null,
+            "Drinks" : null,
+            "Non alcoholic drinks" : {
+                "Agua" : {
+                    "price":150.00
+                },
+                "Refresco" : {
+                    "price":240.00
+                },
+                "Batido de Frutas" : {
+                    "price":390.00
+                },
+                "Limonada Frape" : {
+                    "price":380.00
+                },
+                "Limonada con hierba buena" : {
+                    "price":460.00
+                },
+                "Malta" : {
+                    "price":400.00
+                }
+            }
+        }
+    },
+    "service charge percentaje" : 5
+}

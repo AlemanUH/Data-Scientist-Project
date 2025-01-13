@@ -1,0 +1,268 @@
+{
+    "Name" : "Santy el Pescador",
+    "type" : "Restaurante",
+    "#" : "72724998",
+    "web" : null,
+    "Reference Point" : "Río Jaimanitas",
+    "Status" : "mipime",
+    "events" : null,
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        "Hermosas vistas al rio con sus pequeñas embarcaciones",
+        "Biplanta",
+        "establecimiento confeccionado de madera"
+    ],
+    "speciality" : [
+        "comida japonesa",
+        "comida del mar"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Playa",
+        "address" : "3c23 e/ 3raC y 240 A",
+        "coordinates" : "3GQ6+MF"
+    },
+
+    "open_hours": {
+        "sunday" : "12:00m - 12:00am",
+        "monday" : "12:00m - 12:00am",
+        "tuesday" : "12:00m - 12:00am",
+        "wednesday" : "12:00m - 12:00am",
+        "thursday" : "12:00m - 12:00am",
+        "friday" : "12:00m - 12:00am",
+        "saturday" : "12:00m - 12:00am"
+    },
+
+    "curiosity" : "uno de los unicos restaurantes en la cápital con especialidad en comida japonesa",
+    "Menú" : {
+        "Breakfasts" : {
+            "Sandwich" : null,
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snack Food" : { 
+                "Carpaccio de pulpo" : {
+                   "Price" : 3500.00
+                },
+                "Carpaccio de pescado" : {
+                    "Price" : 3300.00
+                },
+                "Carpaccio de Langosta" : {
+                    "Price" : 3500.00
+                },
+                "Ahumado seco" : {
+                    "Price" : 3500.00
+                },
+                "Ahumado jugoso" : {
+                    "Price" : 3500.00
+                },
+                "Eperlan de langosta" :{
+                    "Price" : 4300.00
+                },
+                "Eperlan de pescado" : {
+                    "Price" : 3300.00
+                },
+                "Hueva(Empanada)" : {
+                    "Price" : 3500.00
+                }
+            },
+            "Soups and Vegetables" : {
+                "Sopa Vegetales" : {
+                    "Price" : 2200.00
+                },
+                "Sopa Pescado" : {
+                    "Price" : 3300.00
+                },
+                "Sopa Mariscos" : {
+                    "Price" : 4200.00
+                }
+            },
+            "Salads" : null,
+            "Others" : {
+                "Sushi" : {
+                    "Price" : 3500.00
+                },
+                "Sashimi" : {
+                    "Price" : 3300.00
+                },
+                "Tataki" : {
+                    "Price" : 3500.00
+                },
+                "Tartar" : {
+                    "Price" : 3800
+                }
+            }
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : {
+                "Cevice Negro" : {
+                    "Price" : 4200.00
+                },
+                "Ceviche" : {
+                    "Price" : 3800.00
+                }
+            },
+            "Creams" : null,
+            "Pasta Sauces" : null,
+            "Rice" : {
+                "Arroz/Vegetales" :{
+                    "Price" : 1000.00
+                }
+            },
+            "Bread" : {
+                "Agrego Pan" : {
+                    "Price" : 800.00
+                }
+            },
+            "Others" : {
+                "Tartas" : {
+                    "Price" : 1150.00
+                }
+            }
+        },
+        "Main Dishes" : {
+            "Pizzas" : null,
+            "Pasta" : {
+                "Natural" : {
+                    "Price" : 2000.00
+                },
+                "Oleo" : {
+                    "Price" : 1500.00
+                },
+                "Vegetal" : {
+                    "Price" : 2500.00
+                },
+                "Pescado" : {
+                    "Price" : 3800.00
+                },
+                "Pulpo" : {
+                    "Price" : 4000.00
+                },
+                "Camarón" : {
+                    "Price" : 3500.00
+                },
+                "Calamar" : {
+                    "Price" : 4500.00
+                },
+                "Langostino" : {
+                    "Price" : 4000.00
+                },
+                "Langosta" : {
+                    "Price" : 4200.00
+                },
+                "Almejas" : {
+                    "Price" : 5200.00
+                },
+                "Mixta" : {
+                    "Price" : 4500.00
+                }
+            },
+            "Meats" : {
+                "Beef" : null,
+                "Lamb" : null,
+                "Pig" : null,
+                "Chicken" : null
+            },
+            "Risotto" : null,
+            "Seafood" : {
+                "Fish" : {
+                    "Filete Pescado" : {
+                        "Price" : 3800.00
+                    },
+                    "Pescado Entero" : {
+                        "Price" : 5000.00
+                    }
+                },
+                "octopus" : {
+                    "Enchilado" : {
+                        "Price" : 4200.00 
+                    },
+                    "Ajo.Vinagreta" : {
+                        "Price" : 4000.00
+                    },
+                    "Gallego" : {
+                        "Price" : 4000.00
+                    }
+                },
+                "lobster(langosta)" : {
+                    "Langosta Entera" : {
+                        "Price" : 9000.00
+                    },
+                    "Cola Langosta Enchilada" : {
+                        "Price" : 5700.00
+                    },
+                    "Cola Langosta Ajo" : {
+                        "Price" : 5500.00
+                    },
+                    "Cola Langostinos" : {
+                        "Price" : 3200.00
+                    },
+                    "Langostinos" : {
+                        "Price" : 6500.00
+                    }
+                },
+                "shrimp(camarones)" : {
+                    "Enchilado" : {
+                        "Price" : 3500.00
+                    },
+                    "Ajo.Mediterráneo" : {
+                        "Price" : 3200.00
+                    },
+                    "Empanado" : {
+                        "Price" : 3200.00
+                    }
+                },
+                "Squid" : {
+                    "Ajo" : {
+                        "Price" : 5000.00
+                    },
+                    "Enchilado" : {
+                        "Price" : 5000.00
+                    }
+                },
+                "Crab" : {
+                    "Pecho Cangrejo Enchilo" : {
+                        "Price" : 3000.00
+                    }
+                },
+                "Others" : {
+                    "Mixto Mariscos" : {
+                        "Price" : 9000.00
+                    }
+                }
+            },
+            "Others" : {
+                "Caldereta" : {
+                    "Price" : 4500.00
+                },
+                "Almejas Vino" : {
+                    "Price" : 3000.00
+                },
+                "Arroz Caldoso" : {
+                    "Price" : 4500.00
+                },
+                "Pintas" : {
+                    "Price" : 9600.00
+                },
+                "Mejillones Ajo" : {
+                    "Price" : 3500.00
+                },
+                "Mejillones Mediterraneo" : {
+                    "Price" : 3500.00
+                }
+            }
+        },
+        "Desserts" : null,
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : null,
+            "Beers and Offers" : null,
+            "Cocktails" : null,
+            "Bottles" : null,
+            "Drinks" : null,
+            "Non alcoholic drinks" : null
+        }
+    }
+}

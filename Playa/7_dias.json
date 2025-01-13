@@ -1,0 +1,460 @@
+{
+    "Name" : "7_Dias",
+    "type" : "Cafeteria/Restaurante",
+    "#" : "+52837046",
+    "web" : null,
+    "Reference Point" : "Teatro Karl Marx",
+    "Status" : "mipime",
+    "events" : null,
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        "vistas al mar",
+        "posee un ambiente moderno",
+        "Asientos al aire libre"
+    ],
+    "speciality" : [       
+        "cocteleria completa",
+        "comida criolla",
+        "comida internacional"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Playa",
+        "address" : "Calle 14, entre 1ra y Mar",
+        "coordinates" : "4HHH+6C"
+    },
+
+    "open_hours": {
+        "sunday" : "11:00am - 10:30pm",
+        "monday" : "11:00am - 10:30pm",
+        "tuesday" : "11:00am - 10:30pm",
+        "wednesday" : "11:00am - 10:30pm",
+        "thursday" : "11:00am - 10:30pm",
+        "friday" : "11:00am - 10:30pm",
+        "saturday" : "11:00am - 10:30pm"
+    },
+
+    "curiosity" : "los menores de edad están prohibidos a partir de las 11 pm en adelante",
+    "Menú" : {
+        "Breakfasts" : {
+            "Sandwich" : {
+                "Vegetariano" : {
+                    "Price" : 600.00
+                },
+                "Lomo de cerdo, lechuga, queso gouda" : {
+                    "Price" : 1000.00
+                },
+                "Atun, salsa tartara, lechuga y tomate" : {
+                    "Price" : 1000.00
+                },
+                "Filete de pollo deshuesado, pimiento, cebolla" : {
+                    "Price" : 1000.00
+                },
+                "Jamon serrano, queso parmesano, albahaca y aceite de oliva" : {
+                    "Price" : 1100.00
+                }
+            },
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snack Food" : {
+                "Picadera 7 Días" : {
+                    "Price" : 2500.00
+                },
+                "Garbanzo Frito" : {
+                    "Price" : 1100.00
+                },
+                "Pimientos del piquillo erellenos con atun y salsa tartara" : {
+                    "Price" : 1200.00
+                }, 
+                "Croquetas" : {
+                    "Price" : 900.00
+                },
+                "Garbanzo marinero" : {
+                    "Price" : 1500.00
+                },
+                "Montadito de berenjena con jamon serrano y vegetales, gratinado con queso gouda" : {
+                    "Price" : 1200.00
+                },
+                "Tacos de Cerdo" : {
+                    "Price" : 900.00
+                },
+                "Toston mexicano" : {
+                    "Price" : 900.00
+                },
+                "Viandas fritas" : {
+                    "Price" : 350.00
+                }
+            },
+            "Soups and Vegetables" : {
+                "Sopa de mariscos" : {
+                    "Price" : 1200.00
+                },
+                "Sopa de algas" : {
+                    "Price" : 600.00
+                }
+            },
+            "Salads" : {
+                "Ensalada de estacion" : {
+                    "Price" : 350.00
+                },
+                "Ensalada de vegetales con arroz salvaje y algas" : {
+                    "Price" : 700.00
+                },
+                "Ensalada de atún y verduras" : {
+                    "Price" : 1100.00
+                },
+                "Ensalada 7 Días" : {
+                    "Price" : 1250.00
+                },
+                "Ensalada Iberica" : {
+                    "Price" : 1250.00
+                }
+            },
+            "Others" : null
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : {
+                "Ceviche de pescado con boniaro caramelizado" : {
+                    "Price" : 1000.00
+                }
+            },
+            "Creams" : {
+                "Crema de calabaza con sopresa de queso" : {
+                    "Price" : 900.00
+                },
+                "Crema de jamon serrano y champiñones" : {
+                    "Price" : 1000.00
+                }
+            },
+            "Pasta Sauces" : null,
+            "Rice" : {
+                "Arroz blanco" : {
+                    "Price" : 250.00
+                },
+                "Arroz con maiz" : {
+                    "Price" : 350.00
+                }
+            },
+            "Bread" : {
+                "Servicio de pan" : {
+                    "Price" : 350.00
+                }
+            },
+            "Others" : {
+                "Viandas hervidas con mojo criollo" : {
+                    "Price" : 400.00
+                }
+            }
+        },
+        "Main Dishes" : {
+            "Pizzas" : null,
+            "Pastas" : {
+                "Pasta Larga con frutos del Mar a la crema" : {
+                    "Price" : 1900.00
+                }
+            },
+            "Meats" : {
+                "Beef" : {
+                    "Corte de res con salsa de championes, sobre crema de malanga" : {
+                        "Price" : 2800.00
+                    },
+                    "Corte de res a la mostaza" : {
+                        "Price" : 2800.00
+                    },
+                    "Ropa vieja en cesta de toston" : {
+                        "Price" : 1900.00
+                    },
+                    "Pinchos de res con salsa chimichurri" : {
+                        "Price" : 2600.00
+                    }
+                },
+                "Lamb" : null,
+                "Pig" : {
+                    "Costillas de cerdo en salsa barbacoa" : {
+                        "Price" : 2000.00
+                    },
+                    "Chuletas de cerdo con mojo criollo" : {
+                        "Price" : 2100.00
+                    }
+                },
+                "Chicken" : {
+                    "Filete de pollo caramelizada con ragout de vegetales" : {
+                        "Price" : 1900.00
+                    },
+                    "Fajita de pollo al curry" : {
+                        "Price" : 1950.00
+                    },
+                    "Brochetas de pollo" : {
+                        "Price" : 1900.00
+                    }
+                }
+            },
+            "Risotto" : {
+                "Risotto con frutos del mar" : {
+                    "Price" : 2150.00
+                },
+                "Risotto de Tierra" : {
+                    "Price" : 2100.00
+                }
+            },
+            "Seafood" : {
+                "Fish" : {
+                    "Filete de pescado al tomate y olivo" : {
+                        "Price" : 2300.00
+                    },
+                    "Filete de pescado al limon" : {
+                        "Price" : 2300.00
+                    },
+                    "Tataki de Bonito con soya vodka, wasabi y vainilla" : {
+                        "Price" : 2000.00
+                    },
+                    "Pescado al plato(450g)" : {
+                        "Price" : 1900.00
+                    }
+                },
+                "octopus" : {
+                    "Pulpo al carbón sobre salsa verde" : {
+                        "Price" : 3000.00
+                    }
+                },
+                "lobster(langosta)" : null,
+                "shrimp(camarones" : {
+                    "Camarones con aroma de coco" : {
+                        "Price" : 2300.00
+                    },
+                    "Camarones al pincho" : {
+                        "Price" : 2500.00
+                    }
+                },
+                "Squid" : null,
+                "Crab" : null,
+                "Others" : {    
+                    "Paella de mariscos" : {
+                        "Price" : 2500.00
+                    }
+                }
+            },
+            "Others" : {
+                "Pinchos de Mar y Tierra" : {
+                    "Price" : 2900.00
+                },
+                "Grillada mediterranea" : {
+                    "Price" : 2800.00
+                }
+            }
+        },
+        "Desserts" : {
+            "Casquitos de guayaba con queso" : {
+                "Price" : 400.00
+            },
+            "Flan casero" : {
+                "Price" : 550.00
+            },
+            "Helado con frutas" : {
+                "Price" : 400.00
+            }
+        },
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : {
+                "Espresso" : {
+                    "Price" : 180.00
+                },
+                "Capccino" : {
+                    "Price" : 300.00
+                },
+                "Irish coffee" : {
+                    "Price" : 350.00
+                },
+                "Carajillo" : {
+                    "Price" : 300.00
+                },
+                "Cortado" : {
+                    "Price" : 250.00
+                },
+                "Americano" : {
+                    "Price" : 180.00
+                },
+                "Cafe con Leche" : {
+                    "Price" : 350.00
+                }
+            },
+            "Beers and Offers" : {
+                "Cerveza Nacional" : {
+                    "Price" : 460.00
+                },
+                "Cerveza Importada" : {
+                    "Price" : 460.00
+                },
+                "Base de Michelada" : {
+                    "Price" : 200.00
+                },
+                "Base de Chelada" : {
+                    "Price" : 200.00
+                }
+            },
+            "Cocktails" : null,
+            "Bottles" : null,
+            "Drinks" : {
+                "Vino tinto House Wine" : {
+                    "Price" : 550.00 
+                },
+                "Vino blanco House Wine" : {
+                    "Price" : 500.00
+                },
+                "Volini Rosso" : {
+                    "Price" : 600.00
+                },
+                "Cinzano Bianco" : {
+                    "Price" : 600.00
+                },
+                "Cinzano Rosso" : {
+                    "Price" : 600.00
+                },
+                "Havana Club Añejo Especial" : {
+                    "Price" : 500.00
+                },
+                "Havana Club Añejo Reserva" : {
+                    "Price" : 550.00
+                },
+                "Havana Club Añejo 7 años" : {
+                    "Price" : 600.00
+                },
+                "Seleccion de Maestros" : {
+                    "Price" : 1000.00
+                },
+                "Santiago Extra Seco" : {
+                    "Price" : 700.00
+                },
+                "Santiago Añejo" : {
+                    "Price" : 500.00
+                },
+                "Santiago Añejo 8 años" : {
+                    "Price" : 700.00
+                },
+                "Santiago Añejo 11 años" : {
+                    "Price" : 900.00
+                },
+                "Santiago Añejo 12 años" :  {
+                    "Price" : 1000.00
+                },
+                "Santero 11 años" : {
+                    "Price" : 900.00
+                },
+                "Ciroc" : {
+                    "Price" : 1000.00
+                },
+                "Grey Goose" : {
+                    "Price" : 800.00
+                },
+                "Belvedere" : {
+                    "Price" : 600.00
+                },
+                "Imperia" : {
+                    "Price" : 700.00
+                },
+                "Absolut" : {
+                    "Price" : 600.00
+                },
+                "José Cuervo Reposado" : {
+                    "Price" : 1000.00
+                },
+                "Olmeca Blanco" : {
+                    "Price" : 600.00
+                },
+                "Olmeca Reposado" : {
+                    "Price" : 650.00
+                },
+                "Mezcal Zignum Reposado" : {
+                    "Price" : 500.00
+                },
+                "El Capricho (Elixir de tequila)" : {
+                    "Price" : 500.00
+                },
+                "Viuda de Romero Reposado" : {
+                    "Price" : 700.00
+                },
+                "Campari" : {
+                    "Price" : 1000.00
+                },
+                "Disaronno" : {
+                    "Price" : 700.00
+                },
+                "Cointreau - Triplesec" : {
+                    "Price" : 700.00
+                },
+                "Kahlúa" : {
+                    "Price" : 700.00
+                },
+                "Sambuca" : {
+                    "Price" : 700.00
+                },
+                "Bailey s Irish Cream" : {
+                    "Price" : 800.00
+                },
+                "Malibú" : {
+                    "Price" : 700.00
+                },
+                "Aperol" : {
+                    "Price" : 900.00
+                },
+                "Bombay Shapire" : {
+                    "Price" : 1000.00
+                },
+                "Beefeater" : {
+                    "Price" : 700.00
+                },
+                "Gordon s" : {
+                    "Price" : 600.00
+                },
+                "Tanqueray" : {
+                    "Price" : 1000.00
+                },
+                "Hendrick s" : {
+                    "Price" : 1000.00
+                }
+            },
+            "Non alcoholic drinks" : {
+                "Refrescos importados" : {
+                    "Price" : 400.00
+                },
+                "Refrescos Nacionales" : {
+                    "Price" : 400.00
+                },
+                "Malta" : {
+                    "Price" : 400.00
+                },
+                "Bebida energetica" : {
+                    "Price" : 600.00
+                },
+                "Jugos Naturales" : {
+                    "Price" : 250.00
+                },
+                "Limonada Frapé o Natural" : {
+                    "Price" : 350.00
+                },
+                "Agua Natural Nacional" : {
+                    "Price" : 300.00
+                },
+                "Agua Natural importada" : {
+                    "Price" : 400.00
+                },
+                "Agua Gaseada Nacional" : {
+                    "Price" : 300.00
+                },
+                "Agua Gaseada Importada" : {
+                    "Price" : 700.00
+                },
+                "Tonica Nacional" : {
+                    "Price" : 400.00
+                },
+                "Tonica Importada" : {
+                    "Price" : 900.00
+                }
+            }
+        }
+    }
+}

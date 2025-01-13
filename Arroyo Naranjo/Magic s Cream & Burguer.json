@@ -1,0 +1,211 @@
+{
+    "Name" : "Magic s Cream & Burguer",
+    "type" : "Restaurante",
+    "#" : null,
+    "web" : null,
+    "Reference Point" : "Instituto Preuniversitario Carlos Pérez",
+    "Status" : "mipime",
+    "events" : null,
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        "Ambiente informal"
+    ],
+    "speciality" : [
+        "comida rapida"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Arroyo Naranjo ",
+        "address" : "Calzada de 10 de Octubre,% Santa Amalia y Arnao",
+        "coordinates" : "3JHQ+M9X"
+    },
+
+    "open_hours": {
+        "sunday" : "11:00am - 10:00pm",
+        "monday" : "11:00am - 10:00pm",
+        "tuesday" : "11:00am - 10:00pm",
+        "wednesday" : "11:00am - 10:00pm",
+        "thursday" : "11:00am - 10:00pm",
+        "friday" : "11:00am - 10:00pm",
+        "saturday" : "11:00am - 10:00pm"
+    },
+
+    "curiosity" : null,
+    "Menu" : {
+        "Breakfasts" : {
+            "Sandwich" : {
+                "Hamburguesas de Cerdo" : {
+                    "price": 430.00
+                },
+                "Hamburguesas de Pollo" : {
+                    "price": 430.00
+                },
+                "Hamburguesas Doble" : {
+                    "price": 1000.00
+                },
+                "Hamburguesas Super Magic's" : {
+                    "price": 1500.00
+                }
+            },
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snack Food" : {
+                "Croquetas Magic's" : {
+                    "price": 400.00
+                },
+                "Fritura de Malanga" : {
+                    "price": 400.00
+                },
+                "Tacos de Pollo" : {
+                    "price": 700.00
+                },
+                "Tacos de Cerdo" : {
+                    "price": 800.00
+                },
+                "Fajas de Pollo" : {
+                    "price": 600.00
+                },
+                "Bolitas de Queso" : {
+                    "price": 500.00
+                },
+                "Papas Fritas" : {
+                    "price": 500.00
+                }
+            },
+            "Soups and Vegetables" : null,
+            "Salads" : null,
+            "Others" : null
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : null,
+            "Creams" : null,
+            "Pasta Sauces" : null,
+            "Rice" : null,
+            "Bread" : null,
+            "Others" : null
+        },
+        "Main Dishes" : {
+            "Pizzas" : null,
+            "Pastas" : null,
+            "Meats" : {
+                "Beef" : null,
+                "Lamb" : null,
+                "Pig" : null,
+                "Chicken" : null
+            },
+            "Risotto" : null,
+            "Seafood" : {
+                "Fish" : null,
+                "octopus" : null,
+                "lobster(langosta)" : null,
+                "shrimp(camarones" : null,
+                "Squid" : null,
+                "Crab" : null,
+                "Others" : null
+            },
+            "Others" : null
+        },
+        "Desserts" : {
+            "Bola de helado" : {
+                "price": 70.00
+            },
+            "Jimaguas" : {
+                "price": 195.00
+            },
+            "Ensalada de helado" : {
+                "price": 350.00
+            },
+            "Batido de helado" : {
+                "price": 395.00
+            },
+            "Tres gracias" : {
+                "price": 245.00
+            }
+        },
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : null,
+            "Beers and Offers" : {
+                "Cervezas Importadas" : {
+                    "price": 220.00
+                },
+                "Cervezaas Nacionales" : {
+                    "price": 300.00
+                }
+            },
+            "Cocktails" : {
+                "Piña Colada sin Alcohol" : {
+                    "price": 500.00
+                },
+                "Piña Colada con Alcohol" : {
+                    "price": 575.00
+                },
+                "Cuba Libre" : {
+                    "price": 500.00
+                },
+                "Mojito" : {
+                    "price": 500.00
+                }
+                
+            },
+            "Bottles" : {
+                "Botella Label 5" : {
+                    "price": 3500.00
+                }
+            },
+            "Drinks" : {
+                "JW Red Label" : {
+                    "price": 600.00
+                },
+                "Ballantine's" : {
+                    "price": 550.00
+                },
+                "Howells" : {
+                    "price": 300.00
+                },
+                "Gran Marchell" : {
+                    "price": 300.00
+                },
+                "Pacto Navio" : {
+                    "price": 700.00
+                },
+                "Havana Club Añejo Reserva" : {
+                    "price": 400.00
+                },
+                "Havana Club Añejo 3 Años" : {
+                    "price": 350.00
+                },
+                "Ginebra" : {
+                    "price": 300.00
+                },
+                "Vodka" : {
+                    "price": 300.00
+                },
+                "Copa Vino Tinto" : {
+                    "price": 600.00
+                },
+                "Copa Vino Blanco" : {
+                    "price": 550.00
+                }
+            },
+            "Non alcoholic drinks" : {
+                "Malta" : {
+                    "price": 300.00
+                },
+                "Pepsi" : {
+                    "price": 300.00
+                },
+                "Refresco de Lata" : {
+                    "price": 210.00
+                },
+                "Limonada Frappe" : {
+                    "price": 250.00
+                }
+            }
+        }
+    },
+    "service_charge_percentage": 0
+}

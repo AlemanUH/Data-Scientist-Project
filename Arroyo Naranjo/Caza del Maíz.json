@@ -1,0 +1,203 @@
+{
+    "Name" : "Casa del Maiz",
+    "type" : "Restaurante",
+    "#" : "52003758",
+    "web" : "https://m.facebook.com/lacasadelmaizcuba/",
+    "Reference Point" : "Iglesia de Mantilla",
+    "Status" : "mipime",
+    "events" : null,
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        
+    ],
+    "speciality" : [
+        "Comida criolla"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Arroyo Naranjo",
+        "address" : "Avenida 1er anillo / Calzada de Managua y San Agustin",
+        "coordinates" : "3M85+9VC"
+    },
+
+    "open_hours": {
+        "sunday" : "10:00am - 10:00pm",
+        "monday" : "10:00am - 10:00pm",
+        "tuesday" : "10:00am - 10:00pm",
+        "wednesday" : "10:00am - 10:00pm",
+        "thursday" : "10:00am - 10:00pm",
+        "friday" : "10:00am - 10:00pm",
+        "saturday" : "10:00am - 10:00pm"
+    },
+
+    "curiosity" : null,
+    "Menu" : {
+        "Breakfasts" : {
+            "Sandwich" : null,
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snack Food" : {
+                "Fritura de Malte" : {
+                    "price": 350
+                },
+                "Fritura de Malanga" : {
+                    "price": 450
+                },
+                "Tostón Relleno" : {
+                    "price": 450
+                },
+                "Chicharrón" : {
+                    "price": 500
+                },
+                "Garbanzos" : {
+                    "price": 550
+                },
+                "Cubito de Maíz" : {
+                    "price": 1070
+                },
+                "Garbanzos Fritos" : {
+                    "price": 450
+                },
+                "Plátano Maduro Frito" : {
+                    "price": 400
+                }
+            },
+            "Soups and Vegetables" : null,
+            "Salads" : {
+                "Ensalada Mixta" : {
+                    "price": 450
+                }
+            },
+            "Others" : null
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : null,
+            "Creams" : null,
+            "Pasta Sauces" : null,
+            "Rice" : {
+                "Arroz Salteado" : {
+                    "price": 530
+                },
+                "Arroz Moro" : {
+                    "price": 250
+                },
+                "Arroz Blanco" : {
+                    "price": 180
+                }
+            },
+            "Bread" : null,
+            "Others" : {
+                "Ají Relleno" : {
+                    "price": 650
+                },
+                "Tamal Especial" : {
+                    "price": 90
+                },
+                "Tostón Criollo" : {
+                    "price": 450
+                },
+                "Malanga Hervida" : {
+                    "price": 425
+                },
+                "Puré de Boniato" : {
+                    "price": 250
+                },
+                "Yuca con Mojo" : {
+                    "price": 250
+                },
+                "Fufú de Plátano" : {
+                    "price": 300
+                }
+            }
+        },
+        "Main Dishes" : {
+            "Pizzas" : null,
+            "Pastas" : null,
+            "Meats" : {
+                "Beef" : {
+                    "Ropa Vieja" : {
+                        "price": 1420
+                    }
+                },
+                "Lamb" : {
+                    "Chilindrón de Carnero" : {
+                        "price": 1420
+                    }
+                },
+                "Pig" : {
+                    "Fricasé de Cerdo" : {
+                        "price": 1150
+                    },
+                    "Bistec de Cerdo" : {
+                        "price": 1250
+                    },
+                    "Lomo Ahumado" : {
+                        "price": 1450
+                    },
+                    "Costilla Ahumada" : {
+                        "price": 1450
+                    },
+                    "Fajitas de Cerdo" : {
+                        "price": 1150
+                    }
+                },
+                "Chicken" : {
+                    "Fajita de Pollo" : {
+                        "price": 1150
+                    },
+                    "Alitas de Pollo" : {
+                        "price": 1050
+                    },
+                    "Pollo en Cazuela" : {
+                        "price": 1050
+                    },
+                    "Pechuga de Pollo" : {
+                        "price": 1650
+                    }
+                }
+            },
+            "Risotto" : null,
+            "Seafood" : {
+                "Fish" : {
+                    "Filete de Pescado" : {
+                        "price": 1480
+                    },
+                    "Espeñan" : {
+                        "price": 1280
+                    }
+                },
+                "octopus" : null,
+                "lobster(langosta)" : null,
+                "shrimp(camarones" : null,
+                "Squid" : null,
+                "Crab" : null,
+                "Others" : null
+            },
+            "Others" : null
+        },
+        "Desserts" : {
+            "Helado Pote de 1lt" : {
+                "price": 850
+            },
+            "Helado Pote Pequeño" : {
+                "price": 490
+            },
+            "Arroz con Leche" : {
+                "price": 200
+            }
+        },
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : null,
+            "Beers and Offers" : null,
+            "Cocktails" : null,
+            "Bottles" : null,
+            "Drinks" : null,
+            "Non alcoholic drinks" : null
+        }
+    },
+    "service charte percentage" : 5
+}

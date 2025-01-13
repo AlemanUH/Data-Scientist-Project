@@ -1,0 +1,210 @@
+{
+    "Name" : "Dona Almira",
+    "type" : "Restaurante",
+    "#" : "76472432",
+    "web" : null,
+    "Reference Point" : "",
+    "Status" : "mipime",
+    "events" : "",
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        
+    ],
+    "speciality" : [
+        "comida criolla"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Playa",
+        "address" : "1ra Avenida entre calle 70 y 68",
+        "coordinates" : ""
+    },
+
+    "open_hours": {
+        "sunday" : "12:00m - 11:00pm",
+        "monday" : null,
+        "tuesday" : null,
+        "wednesday" : null,
+        "thursday" : "12:00m - 11:00pm",
+        "friday" : "12:00m - 11:00pm",
+        "saturday" : "12:00m - 11:00pm"
+    },
+
+    "curiosity" : "",
+    "Menu" : {
+        "Breakfasts" : {
+            "Sandwich" : null,
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snac Food" : {
+                "Tostones rellenos" : {
+                    "Price": 850.00
+                },
+                "Tamal en cazuela" : {
+                    "Price": 785.00
+                },
+                "Vegetales rellenos" : {
+                    "Price": 895.00
+                },
+                "Ración de chicharrones" : {
+                    "Price": 300.00
+                },
+                "Aderezo Doña Almira" : {
+                    "Price": 385.00
+                }
+            },
+            "Soups and Vegetables" : null,
+            "Salads" : {
+                "Ensalada de Chorizo" : {
+                    "Price": 1225.00
+                },
+                "Ensalada Estación" : {
+                    "Price": 285.00
+                }
+            },
+            "Others" : {
+                "Salsa Agridulce" : {
+                    "Price": 395.00
+                }
+            }
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : {
+                "Ceviche de pescado" : {
+                    "Price": 685.00
+                }
+            },
+            "Creams" : null,
+            "Pasta Sauces" : null,
+            "Rice" : {
+                "Arroz Congris" : {
+                    "Price": 120.00
+                }
+            },
+            "Bread" : null,
+            "Others" : null
+        },
+        "Main Dishes" : {
+            "Pizzas" : null,
+            "Pastas" : null,
+            "Meats" : {
+                "Beef" : {
+                    "Picada a La Habanera" : {
+                        "Price": 1290.00
+                    },
+                    "Ropa Vieja" : {
+                        "Price": 1305.00
+                    },
+                    "Vaca Frita" : {
+                        "Price": 1260.00
+                    }
+                },
+                "Lamb" : null,
+                "Pig" : {
+                    "Lomo Rostizado" : {
+                        "Price": 2150.00
+                    },
+                    "Cerdo Enrrollado Asado" : {
+                        "Price": 1545.00
+                    },
+                    "Cerdo Enrollado Salsa Agridulce" : {
+                        "Price": 1570.00
+                    },
+                    "Cerdo Enrollado Glaseado" : {
+                        "Price": 1550.00
+                    },
+                    "Fricasé de Cerdo" : {
+                        "Price": 1520.00
+                    }
+                },
+                "Chicken" : {
+                    "Bistec Americano" : {
+                        "Price": 2430.00
+                    },
+                    "Nasobuco" : {
+                        "Price": 1860.00
+                    },
+                    "Bistec de Hígado" : {
+                        "Price": 1290.00
+                    },
+                    "Hígado a la Italiana" : {
+                        "Price": 1380.00
+                    },
+                    "Pollo Doña Almira" : {
+                        "Price": 1340.00
+                    },
+                    "Pollo Barbacoa" : {
+                        "Price": 1195.00
+                    },
+                    "Pollo Salsa Agridulce" : {
+                        "Price": 1295.00
+                    },
+                    "Pollo Grillé" : {
+                        "Price": 1195.00
+                    },
+                    "Pollo en Fricasé" : {
+                        "Price": 1200.00
+                    },
+                    "Pollo a la Pasa" : {
+                        "Price": 1220.00
+                    },
+                    "Pollo Grillé con Camarones" : {
+                        "Price": 1375.00
+                    }                
+                }
+            },
+            "Risotto" : null,
+            "Seafood" : {
+                "Fish" : {
+                    "Migñon de Pescado Grillé" : {
+                        "Price": 1370.00
+                    },
+                    "Migñon de Pescado a las Finas Hierbas" : {
+                        "Price": 1410.00
+                    },
+                    "Migñon de Pescado Doña Almira" : {
+                        "Price": 1650.00
+                    },
+                    "Migñon de Pescado Gratinado" : {
+                        "Price": 1585.00
+                    },
+                    "Migñon de Pescado con Queso y Bacon" : {
+                        "Price": 1720.00
+                    }
+                },
+                "octopus" : null,
+                "lobster(langosta)" : null,
+                "shrimp(camarones" : null,
+                "Squid" : null,
+                "Crab" : null,
+                "Others" : null
+            },
+            "Others" : null
+        },
+        "Desserts" : {
+            "Musse Variados" : {
+                "Price": 570.00
+            }
+        },
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : {
+                "Café Cubano" : {
+                    "Price": 150.00
+                },
+                "Café Cortado" : {
+                    "Price": 180.00
+                } 
+            },
+            "Beers and Offers" : null,
+            "Cocktails" : null,
+            "Bottles" : null,
+            "Drinks" : null,
+            "Non alcoholic drinks" : null
+        }
+    },
+    "service charge percentage" : 0
+}

@@ -1,0 +1,267 @@
+{
+    "Name" : "Los caneyes",
+    "type" : "Restaurante",
+    "#" : null,
+    "web" : null,
+    "Reference Point" : "",
+    "Status" : "mipime",
+    "events" : "",
+    "people_trend" : "Todas las edades",
+    "establishment_features" : [
+        
+    ],
+    "speciality" : [
+        "comida criolla"
+    ],
+    
+    "establishment_address" : {
+        "Province" : "La Habana",
+        "municipality" : "Arroyo Naranjo",
+        "address" : "Calle Martí y Gutierrez, Reparto Electrico",
+        "coordinates" : ""
+    },
+
+    "open_hours": {
+        "sunday" : "12:00m - 11:00pm",
+        "monday" : "12:00m - 11:00pm",
+        "tuesday" : "12:00m - 11:00pm",
+        "wednesday" : "12:00m - 11:00pm",
+        "thursday" : "12:00m - 11:00pm",
+        "friday" : "12:00m - 11:00pm",
+        "saturday" : "12:00m - 11:00pm"
+    },
+
+    "curiosity" : "",
+    "Menu" : {
+        "Breakfasts" : {
+            "Sandwich" : {
+                "Hamburguesa de res c/ queso gratinado y papas fritas" : {
+                    "Price": 1500.00
+                },
+                "Hamburguesas de Salmón c/ queso gratinado y tostones" : {
+                    "Price": 1500.00
+                }
+            },
+            "Others" : null
+        },
+        "Started Food" : {
+            "Snack Food" : {
+                "Tostones" : {
+                    "Price": 800.00
+                },
+                "Papas fritas" : {
+                    "Price": 900.00
+                },
+                "Masas de Cangrejo con tostones" : {
+                    "Price": 1000.00
+                },
+                "Milanesa de res con papas fritas" : {
+                    "Price": 1500.00
+                }
+            },
+            "Soups and Vegetables" : null,
+            "Salads" : {
+                "Ensalada Mixta de Estación" : {
+                    "Price": 250.00
+                }
+            },
+            "Others" : null
+        },
+        "Garnishes and Additions" : {
+            "Cocktails" : null,
+            "Ceviches" : null,
+            "Creams" : null,
+            "Pasta Sauces" : null,
+            "Rice" : {
+                "Arroz Blanco" : {
+                    "Price": 150.00
+                },
+                "Arroz Congri" : {
+                    "Price": 200.00
+                }
+            },
+            "Bread" : null,
+            "Others" : {
+                "Yuca con mojo" : {
+                    "Price": 200.00
+                },
+                "Puré de malanga (se procesa al pedido)" : {
+                    "Price": 400.00
+                }
+            }
+        },
+        "Main Dishes" : {
+            "Pizzas" : {
+                "Pizza Napolitana" : {
+                    "Price": 900.00
+                },
+                "Pizza Napolitana con queso Gouda" : {
+                    "Price": 1300.00
+                }
+            },
+            "Pastas" : {
+                "Spaguettis Napolitano" : {
+                    "Price": 700.00
+                }
+            },
+            "Meats" : {
+                "Beef" : {
+                    "Ropa Vieja" : {
+                        "Price": 1700.00
+                    },
+                    "Vaca Frita" : {
+                        "Price": 1700.00
+                    }
+                },
+                "Lamb" : null,
+                "Pig" : {
+                    "Fajitas de cerdo empanadas" : {
+                        "Price": 1000.00
+                    },
+                    "Lomo ahumado deshuesado" : {
+                        "Price": 1800.00
+                    },
+                    "Bistec de Cerdo Frito" : {
+                        "Price": 1300.00
+                    },
+                    "Escalope de cerdo" : {
+                        "Price": 1500.00
+                    },
+                    "Bistec de cerdo con Jamón, chorizo y Queso" : {
+                        "Price": 1800.00
+                    },
+                    "Bistec Uruguayo" : {
+                        "Price": 1800.00
+                    },
+                    "Boucht de cerdo" : {
+                        "Price": 1300.00
+                    }
+                },
+                "Chicken" : {
+                    "Fajitas de pollo empanadas" : {
+                        "Price": 1000.00
+                    },
+                    "Suprema de pollo" : {
+                        "Price": 1300.00
+                    },
+                    "Fajitas salteadas" : {
+                        "Price": 1300.00
+                    },
+                    "Fajitas empanadas" : {
+                        "Price": 1400.00
+                    },
+                    "Suprema de pollo empanada" : {
+                        "Price": 1400.00
+                    },
+                    "Suprema de pollo con jamón y queso" : {
+                        "Price": 1800.00
+                    },
+                    "Cordon Bleu" : {
+                        "Price": 2300.00
+                    },
+                    "Suprema de pollo rellena con camarones y queso" : {
+                        "Price": 2300.00
+                    }
+                }
+            },
+            "Risotto" : null,
+            "Seafood" : {
+                "Fish" : {
+                    "Eperlan de pescado" : {
+                        "Price": 1300.00
+                    },
+                    "Filete de Pescado Grille" : {
+                        "Price": 1500.00
+                    },
+                    "Filete de Pescado empanado" : {
+                        "Price": 1500.00
+                    },
+                    "Filete de Pescado Monte toro" : {
+                        "Price": 1800.00
+                    },
+			        "Filete de Pescado Caney" : {
+                        "Price": 1800.00
+                    },
+                    "Filete de Pescado \"Los Caneyes\" (filete con camarones y queso gratinado)" : {
+                        "Price": 2500.00
+                    },
+                    "Salmón rociado en salsa de tomate" : {
+                        "Price": 1500.00
+                    }
+                },
+                "octopus" : null,
+                "lobster(langosta)" : null,
+                "shrimp(camarones" : {
+                    "Camarones al Ajillo" : {
+                        "Price": 2200.00
+                    },
+                    "Enchilado de Camarones" : {
+                        "Price": 2200.00
+                    },
+                    "Camarones Rebozados" : {
+                        "Price": 2200.00
+                    },
+                    "Suprema \"Los Caneyes\" (camarones y queso gratinado)" : {
+                        "Price": 2300.00
+                    } 
+                },
+                "Squid" : null,
+                "Crab" : {
+                    "Masas de Cangrejo en salsa de tomate" : {
+                        "Price": 1300.00
+                    }
+                },
+                "Others" : null
+            },
+            "Others" : null
+        },
+        "Desserts" : {
+            "Tarta con Ganache de Chocolate" : {
+                "Price": 450.00
+            },
+            "Pote de helado Gustó (1 litro)" : {
+                "Price": 1000.00
+            }
+        },
+        "Special" : null,
+        "Beberages" : {
+            "Coofe" : {
+                "Café" : {
+                    "Price": 100.00
+                }
+            },
+            "Beers and Offers" : {
+                "Cervezas" : {
+                    "Price": 330.00
+                },
+                "Cerveza Cristal" : {
+                    "Price": 300.00
+                }
+            },
+            "Cocktails" : null,
+            "Bottles" : null,
+            "Drinks" : null,
+            "Non alcoholic drinks" : {
+                "Refresco cola y limón" : {
+                    "Price": 250.00
+                },
+                "Refresco de mate" : {
+                    "Price": 270.00
+                },
+                "Malta" : {
+                    "Price": 300.00
+                },
+                "Agua Mineral Embotellada" : {
+                    "Price": 300.00
+                },
+                "Latas de jugo" : {
+                    "Price": 300.00
+                },
+                "Bebida energizante" : {
+                    "Price": 100.00
+                }
+            }
+        }
+    },
+    "service_charge_percentage": 0
+}
